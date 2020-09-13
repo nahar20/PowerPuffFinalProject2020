@@ -13,3 +13,6 @@ And user hover on product menu
 When user hover on Laptops
 And user clicks on for home
 Then user successfully redirect to the Laptops page
+
+
+
